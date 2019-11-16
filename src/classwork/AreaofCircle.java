@@ -6,6 +6,7 @@ public class AreaofCircle {
 		System.out.println("Area of Circle");
 		System.out.println("Area of Circle2");
 		System.out.println("Area of Circle3");
+		System.out.println("Area of Circle4");
 	}
 
 }
